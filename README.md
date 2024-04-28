@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋  Hi, I'm Puneeth Kumar!
+I'm Puneeth Kumar!
 
 💻  Recent Master's graduate in Information Security, passionate about proactive threat mitigation and cloud-based security solutions.
 
